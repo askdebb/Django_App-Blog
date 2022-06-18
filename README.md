@@ -1,2 +1,2 @@
 # Django_App-Blog
-Creating a Python Django Project: Blog
+A Python Django Project: Blog
